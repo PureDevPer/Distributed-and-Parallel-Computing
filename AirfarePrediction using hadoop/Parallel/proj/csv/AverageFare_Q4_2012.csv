@@ -1,0 +1,450 @@
+1,LAX,Los Angeles International,Los Angeles,CA,409.82,435.36," 236,996 "
+2,ORD,Chicago O'Hare International,Chicago-O'Hare,IL,388.46,412.67," 190,814 "
+3,DEN,Denver International,Denver,CO,320.95,340.95," 183,686 "
+4,ATL,Hartsfield-Jackson Atlanta International,Atlanta,GA,360.76,383.24," 175,003 "
+5,SFO,San Francisco International,San Francisco,CA,423.67,450.07," 172,002 "
+6,BOS,Logan International,Boston,MA,371.90,395.08," 165,417 "
+7,LGA,LaGuardia,New York-La Guardia,NY,354.56,376.65," 153,897 "
+8,DFW,Dallas/Fort Worth International,Dallas-DFW,TX,406.67,432.02," 149,789 "
+9,SEA,Seattle/Tacoma International,Seattle,WA,390.97,415.33," 146,325 "
+10,JFK,John F. Kennedy International,New York-JFK,NY,405.05,430.30," 141,222 "
+11,PHX,Phoenix Sky Harbor International,Phoenix,AZ,333.97,354.78," 133,501 "
+12,PHL,Philadelphia International,Philadelphia,PA,387.29,411.43," 121,837 "
+13,EWR,Newark Liberty International,Newark,NJ,485.18,515.42," 119,399 "
+14,BWI,Baltimore/Washington International Thurgood Marshall,Baltimore,MD,318.55,338.41," 117,383 "
+15,MCO,Orlando International,Orlando,FL,275.74,292.93," 113,658 "
+16,MSP,Minneapolis-St Paul International,Minneapolis,MN,422.58,448.91," 110,436 "
+17,DTW,Detroit Metro Wayne County,Detroit,MI,406.33,431.66," 104,119 "
+18,DCA,Ronald Reagan Washington National,Washington-Reagan National,DC,370.10,393.16," 103,594 "
+19,LAS,McCarran International,Las Vegas,NV,268.01,284.71," 100,202 "
+20,SAN,San Diego International,San Diego,CA,362.72,385.32," 100,183 "
+21,FLL,Fort Lauderdale-Hollywood International,Fort Lauderdale,FL,267.44,284.11," 99,113 "
+22,TPA,Tampa International,Tampa,FL,309.37,328.65," 88,383 "
+23,IAH,George Bush Intercontinental/Houston,Houston-Intercontinental,TX,502.15,533.44," 85,688 "
+24,MDW,Chicago Midway International,Chicago-Midway,IL,303.69,322.61," 84,948 "
+25,PDX,Portland International,Portland,OR,365.39,388.16," 84,108 "
+26,STL,St Louis Lambert International,St. Louis,MO,346.99,368.62," 68,985 "
+27,OAK,Metropolitan Oakland International,Oakland,CA,298.58,317.18," 68,798 "
+28,CLT,Charlotte Douglas International,Charlotte,NC,397.37,422.14," 67,264 "
+29,MCI,Kansas City International,Kansas City,MO,351.31,373.20," 62,431 "
+30,RDU,Raleigh-Durham International,Raleigh/Durham,NC,349.27,371.04," 62,058 "
+31,SMF,Sacramento International,Sacramento,CA,350.83,372.69," 61,942 "
+32,HNL,Daniel K Inouye International,Honolulu,HI,333.82,354.62," 61,744 "
+33,SLC,Salt Lake City International,Salt Lake City,UT,393.14,417.65," 61,553 "
+34,AUS,Austin - Bergstrom International,Austin,TX,388.95,413.19," 59,727 "
+35,SJC,Norman Y. Mineta San Jose International,San Jose,CA,342.41,363.75," 56,546 "
+36,SNA,John Wayne Airport-Orange County,Santa Ana,CA,366.35,389.18," 55,475 "
+37,IAD,Washington Dulles International,Washington-Dulles,DC,495.43,526.31," 54,160 "
+38,PIT,Pittsburgh International,Pittsburgh,PA,362.21,384.78," 54,011 "
+39,BNA,Nashville International,Nashville,TN,366.94,389.81," 52,496 "
+40,HOU,William P Hobby,Houston-Hobby,TX,335.51,356.42," 51,608 "
+41,IND,Indianapolis International,Indianapolis,IN,375.59,399.00," 50,959 "
+42,MIA,Miami International,Miami,FL,355.78,377.95," 49,906 "
+43,MKE,General Mitchell International,Milwaukee,WI,332.10,352.79," 47,154 "
+44,SAT,San Antonio International,San Antonio,TX,380.86,404.59," 45,220 "
+45,CMH,John Glenn Columbus International,Columbus,OH,368.37,391.33," 44,875 "
+46,MSY,Louis Armstrong New Orleans International,New Orleans,LA,361.31,383.83," 42,577 "
+47,BDL,Bradley International,Hartford,CT,403.05,428.17," 41,371 "
+48,CLE,Cleveland-Hopkins International,Cleveland,OH,458.11,486.66," 41,267 "
+49,DAL,Dallas Love Field,Dallas-Love Field,TX,283.15,300.79," 40,936 "
+50,BUF,Buffalo Niagara International,Buffalo,NY,312.98,332.48," 39,394 "
+51,SJU,Luis Munoz Marin International,San Juan,PR,291.96,310.15," 36,324 "
+52,RSW,Southwest Florida International,Fort Myers,FL,299.70,318.38," 32,172 "
+53,JAX,Jacksonville International,Jacksonville,FL,363.49,386.14," 32,062 "
+54,PBI,Palm Beach International,West Palm Beach/Palm Beach,FL,311.46,330.87," 31,922 "
+55,BUR,Bob Hope,Burbank,CA,281.69,299.25," 31,537 "
+56,ONT,Ontario International,Ontario,CA,338.32,359.41," 31,117 "
+57,ABQ,Albuquerque International Sunport,Albuquerque,NM,358.04,380.35," 30,038 "
+58,PVD,Theodore Francis Green State,Providence,RI,359.45,381.85," 28,161 "
+59,OMA,Eppley Airfield,Omaha,NE,370.42,393.51," 27,855 "
+60,CVG,Cincinnati/Northern Kentucky International,Cincinnati,OH,518.48,550.80," 25,161 "
+61,OKC,Will Rogers World,Oklahoma City,OK,405.07,430.31," 24,125 "
+62,ORF,Norfolk International,Norfolk,VA,393.80,418.34," 22,839 "
+63,SDF,Louisville International-Standiford Field,Louisville,KY,384.83,408.82," 22,642 "
+64,RIC,Richmond International,Richmond,VA,412.25,437.94," 22,393 "
+65,TUS,Tucson International,Tucson,AZ,368.00,390.93," 22,176 "
+66,GEG,Spokane International,Spokane,WA,366.65,389.50," 19,953 "
+67,LGB,Long Beach Airport,Long Beach,CA,233.84,248.41," 19,864 "
+68,DAY,James M Cox/Dayton International,Dayton,OH,362.05,384.61," 19,499 "
+69,ELP,El Paso International,El Paso,TX,378.15,401.71," 19,106 "
+70,BHM,Birmingham-Shuttlesworth International,Birmingham,AL,388.82,413.06," 19,035 "
+71,MEM,Memphis International,Memphis,TN,479.71,509.60," 19,024 "
+72,MHT,Manchester-Boston Regional,Manchester,NH,365.35,388.12," 18,403 "
+73,RNO,Reno/Tahoe International,Reno,NV,327.26,347.65," 18,237 "
+74,ROC,Greater Rochester International,Rochester,NY,339.08,360.21," 17,856 "
+75,BOI,Boise Air Terminal,Boise,ID,389.29,413.55," 17,850 "
+76,ALB,Albany International,Albany,NY,411.36,437.00," 17,609 "
+77,TUL,Tulsa International,Tulsa,OK,430.19,457.00," 17,318 "
+78,ANC,Ted Stevens Anchorage International,Anchorage,AK,621.41,660.13," 17,249 "
+79,CAK,Akron-Canton Regional,Akron,OH,321.05,341.06," 15,399 "
+80,DSM,Des Moines International,Des Moines,IA,387.24,411.37," 15,162 "
+81,LIT,Bill and Hillary Clinton Nat Adams Field,Little Rock,AR,384.74,408.72," 14,736 "
+82,GRR,Gerald R. Ford International,Grand Rapids,MI,454.93,483.29," 14,584 "
+83,SYR,Syracuse Hancock International,Syracuse,NY,405.14,430.39," 14,545 "
+84,OGG,Kahului Airport,Kahului,HI,244.42,259.65," 14,332 "
+85,CHS,Charleston AFB/International,Charleston,SC,418.76,444.86," 13,976 "
+86,HPN,Westchester County,White Plains,NY,389.94,414.24," 12,140 "
+87,GSP,Greenville-Spartanburg International,Greenville-Spartanburg,SC,393.99,418.55," 11,973 "
+88,GSO,Piedmont Triad International,Greensboro/High Point,NC,410.78,436.39," 11,897 "
+89,COS,City of Colorado Springs Municipal,Colorado Springs,CO,374.89,398.26," 11,634 "
+90,MSN,Dane County Regional-Truax Field,Madison,WI,470.51,499.83," 11,167 "
+91,PWM,Portland International Jetport,Portland,ME,388.41,412.62," 10,799 "
+92,TYS,McGhee Tyson,Knoxville,TN,462.94,491.79," 10,105 "
+93,ISP,Long Island MacArthur,Islip,NY,320.30,340.26," 9,979 "
+94,BLI,Bellingham International,Bellingham,WA,290.72,308.84," 9,904 "
+95,ICT,Wichita Dwight D Eisenhower National,Wichita,KS,396.51,421.22," 9,788 "
+96,PNS,Pensacola International,Pensacola,FL,428.32,455.02," 8,955 "
+97,FAT,Fresno Yosemite International,Fresno,CA,402.14,427.20," 8,901 "
+98,JAN,Jackson Medgar Wiley Evers International,Jackson/Vicksburg,MS,418.59,444.68," 8,765 "
+99,MDT,Harrisburg International,Harrisburg,PA,446.44,474.27," 8,551 "
+100,BTV,Burlington International,Burlington,VT,419.14,445.26," 8,495 "
+101,ACY,Atlantic City International,Atlantic City,NJ,157.48,167.30," 7,982 "
+102,LIH,Lihue Airport,Lihue,HI,222.45,236.32," 7,850 "
+103,SAV,Savannah/Hilton Head International,Savannah,GA,473.64,503.15," 7,749 "
+104,KOA,Kona International Airport at Keahole,Kona,HI,250.65,266.27," 7,694 "
+105,HSV,Huntsville International-Carl T Jones Field,Huntsville,AL,543.77,577.65," 7,156 "
+106,PSP,Palm Springs International,Palm Springs,CA,370.71,393.82," 7,153 "
+107,MAF,Midland International Air and Space Port,Midland/Odessa,TX,398.27,423.09," 6,951 "
+108,CID,The Eastern Iowa,Cedar Rapids/Iowa City,IA,436.31,463.51," 6,795 "
+109,ITO,Hilo International,Hilo,HI,212.62,225.87," 6,698 "
+110,LEX,Blue Grass,Lexington,KY,438.36,465.68," 6,644 "
+111,FNT,Bishop International,Flint,MI,363.23,385.87," 6,607 "
+112,LBB,Lubbock Preston Smith International,Lubbock,TX,394.08,418.64," 6,522 "
+113,XNA,Northwest Arkansas Regional,Fayetteville,AR,515.73,547.87," 6,353 "
+114,AZA,Phoenix - Mesa Gateway,Phoenix,AZ,144.11,153.09," 6,157 "
+115,CAE,Columbia Metropolitan,Columbia,SC,487.24,517.61," 5,993 "
+116,FSD,Joe Foss Field,Sioux Falls,SD,419.52,445.66," 5,974 "
+117,SRQ,Sarasota/Bradenton International,Sarasota/Bradenton,FL,360.85,383.34," 5,858 "
+118,EUG,Mahlon Sweet Field,Eugene,OR,389.46,413.73," 5,834 "
+119,BIL,Billings Logan International,Billings,MT,400.99,425.98," 5,787 "
+120,MYR,Myrtle Beach International,Myrtle Beach,SC,295.90,314.34," 5,603 "
+121,ILM,Wilmington International,Wilmington,NC,424.67,451.14," 5,591 "
+122,AMA,Rick Husband Amarillo International,Amarillo,TX,387.04,411.16," 5,409 "
+123,MLI,Quad City International,Moline,IL,421.88,448.17," 5,309 "
+124,BTR,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,LA,462.28,491.09," 5,178 "
+125,SBA,Santa Barbara Municipal,Santa Barbara,CA,450.92,479.02," 5,069 "
+126,FAR,Hector International,Fargo,ND,488.83,519.29," 5,038 "
+127,ABE,Lehigh Valley International,Allentown/Bethlehem/Easton,PA,432.28,459.22," 4,564 "
+128,PSC,Tri Cities,Pasco/Kennewick/Richland,WA,425.75,452.28," 4,543 "
+129,SGF,Springfield-Branson National,Springfield,MO,451.46,479.59," 4,515 "
+130,BZN,Bozeman Yellowstone International,Bozeman,MT,443.19,470.81," 4,497 "
+131,SFB,Orlando Sanford International,Sanford,FL,122.49,130.12," 4,487 "
+132,TLH,Tallahassee International,Tallahassee,FL,487.08,517.44," 4,348 "
+133,SBN,South Bend International,South Bend,IN,431.56,458.46," 4,294 "
+134,MFE,McAllen Miller International,Mission/McAllen/Edinburg,TX,441.15,468.64," 4,229 "
+135,PHF,Newport News/Williamsburg International,Newport News/Williamsburg,VA,430.86,457.71," 4,174 "
+136,FWA,Fort Wayne International,Fort Wayne,IN,447.42,475.30," 4,124 "
+137,HRL,Valley International,Harlingen/San Benito,TX,341.20,362.47," 4,118 "
+138,MFR,Rogue Valley International - Medford,Medford,OR,393.74,418.28," 4,112 "
+139,CRP,Corpus Christi International,Corpus Christi,TX,465.14,494.13," 4,040 "
+140,CHA,Lovell Field,Chattanooga,TN,448.48,476.43," 4,026 "
+141,AGS,Augusta Regional at Bush Field,Augusta,GA,413.41,439.18," 4,011 "
+142,FAI,Fairbanks International,Fairbanks,AK,629.64,668.88," 3,951 "
+143,ROA,Roanoke Blacksburg Regional Woodrum Field,Roanoke,VA,516.51,548.70," 3,939 "
+144,VPS,Eglin AFB Destin Fort Walton Beach,Valparaiso,FL,493.10,523.83," 3,843 "
+145,FAY,Fayetteville Regional/Grannis Field,Fayetteville,NC,465.43,494.43," 3,838 "
+146,MSO,Missoula International,Missoula,MT,445.80,473.58," 3,821 "
+147,PIE,St Pete Clearwater International,St. Petersburg,FL,136.20,144.69," 3,763 "
+148,GPT,Gulfport-Biloxi International,Gulfport/Biloxi,MS,448.85,476.83," 3,753 "
+149,PIA,General Downing - Peoria International,Peoria,IL,415.94,441.86," 3,732 "
+150,BIS,Bismarck Municipal,Bismarck/Mandan,ND,484.60,514.80," 3,706 "
+151,MOT,Minot International,Minot,ND,531.90,565.05," 3,675 "
+152,ECP,Northwest Florida Beaches International,Panama City,FL,411.52,437.16," 3,633 "
+153,AVL,Asheville Regional,Asheville,NC,473.08,502.56," 3,549 "
+154,SHV,Shreveport Regional,Shreveport,LA,515.05,547.15," 3,436 "
+155,CRW,Yeager,Charleston/Dunbar,WV,482.39,512.46," 3,338 "
+156,CHO,Charlottesville Albemarle,Charlottesville,VA,460.55,489.25," 3,308 "
+157,DAB,Daytona Beach International,Daytona Beach,FL,353.43,375.45," 3,293 "
+158,RDM,Roberts Field,Bend/Redmond,OR,400.76,425.74," 3,252 "
+159,STT,Cyril E King,Charlotte Amalie,VI,362.82,385.43," 3,201 "
+160,MOB,Mobile Regional,Mobile,AL,522.49,555.05," 3,195 "
+161,AVP,Wilkes Barre Scranton International,Scranton/Wilkes-Barre,PA,450.70,478.79," 3,169 "
+162,BGR,Bangor International,Bangor,ME,442.36,469.93," 3,097 "
+163,MRY,Monterey Regional,Monterey,CA,378.41,401.99," 3,048 "
+164,GRB,Green Bay Austin Straubel International,Green Bay,WI,566.15,601.44," 2,987 "
+165,BMI,Central Illinois Regional,Bloomington/Normal,IL,410.16,435.72," 2,931 "
+166,ATW,Appleton International,Appleton,WI,527.14,559.99," 2,888 "
+167,RAP,Rapid City Regional,Rapid City,SD,486.56,516.89," 2,829 "
+168,LFT,Lafayette Regional Paul Fournet Field,Lafayette,LA,544.94,578.90," 2,824 "
+169,GRK,Robert Gray AAF,Killeen,TX,484.64,514.84," 2,804 "
+170,OAJ,Albert J Ellis,Jacksonville/Camp Lejeune,NC,452.61,480.82," 2,783 "
+171,TRI,Tri Cities,Bristol/Johnson City/Kingsport,TN,487.07,517.42," 2,769 "
+172,GNV,Gainesville Regional,Gainesville,FL,447.47,475.36," 2,738 "
+173,LAN,Capital Region International,Lansing,MI,403.42,428.56," 2,701 "
+174,BQN,Rafael Hernandez,Aguadilla,PR,245.89,261.22," 2,695 "
+174,GJT,Grand Junction Regional,Grand Junction,CO,469.80,499.08," 2,695 "
+176,DRO,Durango La Plata County,Durango,CO,401.98,427.03," 2,693 "
+177,MLB,Melbourne International,Melbourne,FL,364.45,387.17," 2,664 "
+178,SWF,Stewart International,Newburgh/Poughkeepsie,NY,383.62,407.53," 2,595 "
+179,GTF,Great Falls International,Great Falls,MT,434.65,461.74," 2,586 "
+180,JNU,Juneau International,Juneau,AK,481.37,511.37," 2,514 "
+181,SBP,San Luis County Regional,San Luis Obispo,CA,475.39,505.01," 2,440 "
+182,BFL,Meadows Field,Bakersfield,CA,513.03,545.00," 2,375 "
+183,MGM,Montgomery Regional,Montgomery,AL,491.46,522.09," 2,208 "
+184,GFK,Grand Forks International,Grand Forks,ND,451.19,479.31," 2,190 "
+185,DLH,Duluth International,Duluth,MN,451.86,480.02," 2,082 "
+186,FCA,Glacier Park International,Kalispell,MT,466.87,495.97," 2,076 "
+187,ELM,Elmira/Corning Regional,Elmira/Corning,NY,392.92,417.41," 2,053 "
+188,EVV,Evansville Regional,Evansville,IN,524.69,557.39," 2,049 "
+189,SCE,University Park,State College,PA,581.88,618.14," 2,028 "
+190,EWN,Coastal Carolina Regional,New Bern/Morehead/Beaufort,NC,436.48,463.68," 2,009 "
+191,EYW,Key West International,Key West,FL,360.93,383.42," 1,941 "
+192,ITH,Ithaca Tompkins Regional,Ithaca/Cortland,NY,445.82,473.60," 1,909 "
+193,IDA,Idaho Falls Regional,Idaho Falls,ID,473.31,502.80," 1,888 "
+194,TVC,Cherry Capital,Traverse City,MI,554.01,588.54," 1,847 "
+195,AEX,Alexandria International,Alexandria,LA,509.79,541.56," 1,749 "
+196,AZO,Kalamazoo/Battle Creek International,Kalamazoo,MI,574.41,610.20," 1,733 "
+197,PBG,Plattsburgh International,Plattsburgh,NY,224.21,238.18," 1,712 "
+198,MBS,MBS International,Saginaw/Bay City/Midland,MI,511.69,543.58," 1,640 "
+199,CWA,Central Wisconsin,Mosinee,WI,553.23,587.70," 1,632 "
+200,ERI,Erie International/Tom Ridge Field,Erie,PA,404.17,429.36," 1,590 "
+201,LNK,Lincoln Airport,Lincoln,NE,478.16,507.96," 1,588 "
+202,BGM,Greater Binghamton/Edwin A. Link Field,Binghamton,NY,435.15,462.27," 1,566 "
+203,PSE,Mercedita,Ponce,PR,248.41,263.89," 1,548 "
+204,STS,Charles M. Schulz - Sonoma County,Santa Rosa,CA,271.88,288.82," 1,505 "
+205,IAG,Niagara Falls International,Niagara Falls,NY,146.14,155.25," 1,491 "
+206,HTS,Tri-State/Milton J. Ferguson Field,Ashland,WV,305.29,324.31," 1,387 "
+207,LBE,Arnold Palmer Regional,Latrobe,PA,147.88,157.09," 1,386 "
+208,LYH,Lynchburg Regional/Preston Glenn Field,Lynchburg,VA,483.60,513.74," 1,385 "
+209,STX,Henry E. Rohlsen,Christiansted,VI,371.79,394.97," 1,333 "
+210,BKG,Branson Airport,Branson,MO,260.71,276.96," 1,329 "
+211,IFP,Laughlin/Bullhead International,Bullhead City,AZ,184.46,195.96," 1,300 "
+212,YUM,Yuma MCAS/Yuma International,Yuma,AZ,470.89,500.24," 1,297 "
+213,LRD,Laredo International,Laredo,TX,439.23,466.60," 1,277 "
+214,HLN,Helena Regional,Helena,MT,545.84,579.86," 1,276 "
+215,MLU,Monroe Regional,Monroe,LA,518.08,550.37," 1,267 "
+216,RST,Rochester International,Rochester,MN,453.57,481.83," 1,266 "
+217,CMI,University of Illinois/Willard,Champaign/Urbana,IL,560.38,595.30," 1,247 "
+218,CPR,Casper/Natrona County International,Casper,WY,442.35,469.92," 1,166 "
+219,CLD,McClellan-Palomar,Carlsbad,CA,353.64,375.68," 1,132 "
+220,ABI,Abilene Regional,Abilene,TX,489.51,520.02," 1,129 "
+221,RFD,Chicago/Rockford International,Rockford,IL,203.26,215.93," 1,114 "
+222,TYR,Tyler Pounds Regional,Tyler,TX,452.31,480.50," 1,108 "
+223,FSM,Fort Smith Regional,Fort Smith,AR,538.65,572.22," 1,101 "
+224,SBY,Salisbury-Ocean City/Wicomico Regional,Salisbury,MD,387.04,411.16," 1,086 "
+225,FLO,Florence Regional,Florence,SC,392.98,417.48," 1,078 "
+226,JAC,Jackson Hole,Jackson,WY,651.88,692.50," 1,071 "
+227,LSE,La Crosse Regional,La Crosse,WI,553.67,588.18," 1,053 "
+228,PGV,Pitt Greenville,Greenville,NC,428.32,455.01," 1,048 "
+229,KTN,Ketchikan International,Ketchikan,AK,478.82,508.66," 1,030 "
+230,SPI,Abraham Lincoln Capital,Springfield,IL,413.67,439.45," 1,014 "
+231,PGD,Punta Gorda Airport,Punta Gorda,FL,130.22,138.34," 1,011 "
+232,CLL,Easterwood Field,College Station/Bryan,TX,533.73,566.99," 1,002 "
+233,ACV,California Redwood Coast Humboldt County,Arcata/Eureka,CA,564.50,599.68, 987 
+234,GRI,Central Nebraska Regional,Grand Island,NE,288.31,306.28, 968 
+235,FLG,Flagstaff Pulliam,Flagstaff,AZ,423.31,449.69, 941 
+236,MHK,Manhattan Regional,Manhattan/Ft. Riley,KS,445.89,473.68, 922 
+237,LWS,Lewiston Nez Perce County,Lewiston,ID,454.40,482.72, 919 
+238,BET,Bethel Airport,Bethel,AK,484.16,514.33, 898 
+239,ASE,Aspen Pitkin County Sardy Field,Aspen,CO,675.41,717.51, 873 
+240,ACT,Waco Regional,Waco,TX,484.95,515.17, 871 
+241,YKM,Yakima Air Terminal/McAllister Field,Yakima,WA,413.52,439.29, 833 
+242,SCK,Stockton Metropolitan,Stockton,CA,163.33,173.51, 829 
+243,SJT,San Angelo Regional/Mathis Field,San Angelo,TX,498.54,529.61, 812 
+244,LCH,Lake Charles Regional,Lake Charles,LA,541.30,575.04, 808 
+245,BRO,Brownsville South Padre Island International,Brownsville,TX,548.79,582.99, 804 
+246,EAT,Pangborn Memorial,Wenatchee,WA,376.46,399.92, 755 
+247,LAW,Lawton-Fort Sill Regional,Lawton/Fort Sill,OK,546.12,580.16, 738 
+248,CSG,Columbus Airport,Columbus,GA,507.75,539.39, 733 
+249,ISN,Sloulin Field International,Williston,ND,644.61,684.78, 722 
+250,SMX,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,CA,386.97,411.08, 706 
+251,TOL,Toledo Express,Toledo,OH,352.94,374.94, 701 
+252,SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,478.66,508.50, 671 
+253,COU,Columbia Regional,Columbia,MO,413.76,439.55, 658 
+254,GUM,Guam International,Guam,TT,1650.19,1753.03, 653 
+255,PUW,Pullman Moscow Regional,Pullman,WA,379.07,402.69, 643 
+256,SIT,Sitka Rocky Gutierrez,Sitka,AK,441.86,469.40, 638 
+257,DHN,Dothan Regional,Dothan,AL,715.76,760.37, 559 
+258,HVN,Tweed New Haven,New Haven,CT,414.50,440.34, 545 
+259,VLD,Valdosta Regional,Valdosta,GA,537.77,571.29, 527 
+260,PVU,Provo Municipal,Provo,UT,246.01,261.34, 514 
+261,CMX,Houghton County Memorial,Hancock/Houghton,MI,444.53,472.23, 511 
+262,SCC,Deadhorse Airport,Deadhorse,AK,474.02,503.57, 507 
+263,GTR,Golden Triangle Regional,Columbus,MS,556.14,590.80, 504 
+264,EGE,Eagle County Regional,Eagle,CO,586.62,623.18, 493 
+265,ADQ,Kodiak Airport,Kodiak,AK,664.45,705.86, 485 
+266,ALW,Walla Walla Regional,Walla Walla,WA,350.76,372.62, 483 
+267,HHH,Hilton Head Airport,Hilton Head,SC,517.25,549.48, 477 
+268,MTJ,Montrose Regional,Montrose/Delta,CO,550.17,584.46, 476 
+269,DBQ,Dubuque Regional,Dubuque,IA,501.12,532.36, 475 
+270,ABY,Southwest Georgia Regional,Albany,GA,550.91,585.24, 474 
+271,GCC,Gillette Campbell County,Gillette,WY,459.74,488.39, 472 
+272,OTZ,Ralph Wien Memorial,Kotzebue,AK,513.38,545.38, 471 
+273,BRW,Wiley Post/Will Rogers Memorial,Barrow,AK,622.44,661.23, 461 
+274,OME,Nome Airport,Nome,AK,521.49,553.99, 456 
+275,RDD,Redding Municipal,Redding,CA,498.14,529.19, 439 
+276,ROW,Roswell International Air Center,Roswell,NM,546.99,581.08, 434 
+277,YNG,Youngstown-Warren Regional,Youngstown/Warren,OH,153.34,162.90, 422 
+278,IPT,Williamsport Regional,Williamsport,PA,500.09,531.25, 421 
+279,MQT,Sawyer International,Marquette,MI,603.76,641.39, 414 
+280,PAH,Barkley Regional,Paducah,KY,345.08,366.59, 413 
+281,EAU,Chippewa Valley Regional,Eau Claire,WI,352.15,374.10, 399 
+282,RKS,Rock Springs Sweetwater County,Rock Springs,WY,465.11,494.09, 398 
+283,HDN,Yampa Valley,Hayden,CO,569.97,605.49, 395 
+284,OWB,Owensboro Daviess County,Owensboro,KY,156.09,165.82, 384 
+285,JLN,Joplin Regional,Joplin,MO,481.23,511.22, 381 
+286,SUX,Sioux Gateway/Col. Bud Day Field,Sioux City,IA,426.83,453.43, 379 
+287,CIC,Chico Municipal,Chico,CA,391.56,415.96, 376 
+288,SAF,Santa Fe Municipal,Santa Fe,NM,430.89,457.74, 367 
+289,SHD,Shenandoah Valley Regional,Staunton,VA,355.67,377.84, 366 
+290,DUT,Unalaska Airport,Unalaska,AK,1011.87,1074.93, 359 
+291,TXK,Texarkana Regional-Webb Field,Texarkana,AR,570.96,606.54, 358 
+292,GCK,Garden City Regional,Garden City,KS,432.87,459.85, 352 
+293,BQK,Brunswick Golden Isles,Brunswick,GA,478.40,508.22, 313 
+294,GGG,East Texas Regional,Longview,TX,447.54,475.44, 309 
+295,MKG,Muskegon County,Muskegon,MI,324.08,344.28, 300 
+296,SGU,St George Regional,St. George,UT,185.21,196.76, 296 
+297,HOB,Lea County Regional,Hobbs,NM,503.95,535.36, 288 
+298,ART,Watertown International,Watertown,NY,517.39,549.64, 286 
+298,CIU,Chippewa County International,Sault Ste. Marie,MI,572.19,607.85, 286 
+300,PPG,Pago Pago International,Pago Pago,TT,1054.48,1120.20, 281 
+301,LMT,Crater Lake Klamath Regional,Klamath Falls,OR,422.80,449.15, 270 
+302,COD,Yellowstone Regional,Cody,WY,499.39,530.51, 265 
+303,ALO,Waterloo Regional,Waterloo,IA,438.80,466.15, 252 
+304,MOD,Modesto City-County-Harry Sham Field,Modesto,CA,477.71,507.48, 236 
+305,PLN,Pellston Regional Airport of Emmet County,Pellston,MI,576.52,612.45, 229 
+306,PSG,Petersburg James A Johnson,Petersburg,AK,447.49,475.38, 221 
+307,HGR,Hagerstown Regional-Richard A. Henson Field,Hagerstown,MD,115.03,122.20, 219 
+308,SUN,Friedman Memorial,Sun Valley/Hailey/Ketchum,ID,246.96,262.35, 211 
+309,CEC,Jack McNamara Field,Crescent City,CA,399.52,424.42, 197 
+310,DRT,Del Rio International,Del Rio,TX,510.90,542.74, 190 
+311,FNL,Fort Collins-Loveland Municipal,Fort Collins/Loveland,CO,135.53,143.98, 156 
+312,ESC,Delta County,Escanaba,MI,576.80,612.75, 153 
+313,BRD,Brainerd Lakes Regional,Brainerd,MN,470.99,500.34, 152 
+313,OGD,Ogden-Hinckley,Ogden,UT,99.03,105.20, 152 
+315,GUC,Gunnison-Crested Butte Regional,Gunnison,CO,505.72,537.24, 147 
+316,TTN,Trenton Mercer,Trenton,NJ,172.66,183.43, 146 
+317,CDV,Merle K Mudhole Smith,Cordova,AK,452.19,480.37, 144 
+317,LAR,Laramie Regional,Laramie,WY,433.15,460.15, 144 
+319,HIB,Range Regional,Hibbing,MN,580.08,616.23, 142 
+320,MMH,Mammoth Lakes Airport,Mammoth Lakes,CA,187.24,198.91, 135 
+321,GYY,Gary/Chicago International,Gary,IN,122.11,129.72, 134 
+322,DIK,Dickinson - Theodore Roosevelt Regional,Dickinson,ND,728.10,773.48, 129 
+323,ENA,Kenai Municipal,Kenai,AK,827.65,879.23, 127 
+324,PIH,Pocatello Regional,Pocatello,ID,234.73,249.35, 124 
+325,TWF,Joslin Field - Magic Valley Regional,Twin Falls,ID,200.38,212.87, 120 
+325,WRG,Wrangell Airport,Wrangell,AK,414.15,439.96, 120 
+327,MGW,Morgantown Municipal-Walter L. Bill Hart Field,Morgantown,WV,653.18,693.89, 111 
+328,BTM,Bert Mooney,Butte,MT,218.56,232.18, 110 
+328,SHR,Sheridan County,Sheridan,WY,634.02,673.53, 110 
+330,BLV,Scott AFB/MidAmerica,Belleville,IL,127.07,134.99, 108 
+330,JST,John Murtha Johnstown-Cambria County,Johnstown,PA,501.83,533.11, 108 
+332,PKB,Mid-Ohio Valley Regional,Parkersburg,WV,517.44,549.69, 107 
+332,IYK,Inyokern Airport,Inyokern,CA,1045.87,1111.05, 107 
+334,ABR,Aberdeen Regional,Aberdeen,SD,216.13,229.60, 105 
+335,OTH,Southwest Oregon Regional,North Bend/Coos Bay,OR,431.13,457.99, 104 
+336,RIW,Riverton Regional,Riverton/Lander,WY,655.45,696.30, 102 
+337,LCK,Rickenbacker International,Columbus,OH,127.59,135.54, 99 
+338,EKO,Elko Regional,Elko,NV,226.21,240.31, 98 
+339,BJI,Bemidji Regional,Bemidji,MN,213.07,226.35, 96 
+340,CYS,Cheyenne Regional/Jerry Olson Field,Cheyenne,WY,590.61,627.42, 92 
+341,EAR,Kearney Regional,Kearney,NE,590.96,627.78, 89 
+341,PIR,Pierre Regional,Pierre,SD,680.47,722.88, 89 
+343,ACK,Nantucket Memorial,Nantucket,MA,398.13,422.94, 85 
+343,YAK,Yakutat Airport,Yakutat,AK,406.26,431.58, 85 
+345,INL,Falls International Einarson Field,International Falls,MN,589.39,626.12, 83 
+346,TBN,Waynesville-St. Robert Regional Forney Field,Fort Leonard Wood,MO,521.25,553.73, 81 
+347,FMN,Four Corners Regional,Farmington,NM,623.80,662.68, 80 
+348,BFF,Western Neb. Regional/William B. Heilig Field,Scottsbluff,NE,635.04,674.62, 77 
+348,PQI,Northern Maine Regional at Presque Isle,Presque Isle/Houlton,ME,694.75,738.05, 77 
+350,IPL,Imperial County,El Centro,CA,412.80,438.53, 76 
+351,DUJ,DuBois Regional,DuBois,PA,566.92,602.25, 75 
+351,RHI,Rhinelander/Oneida County,Rhinelander,WI,348.45,370.17, 75 
+353,IMT,Ford,Iron Mountain/Kingsfd,MI,596.50,633.67, 68 
+353,LBF,North Platte Regional Airport Lee Bird Field,North Platte,NE,590.19,626.97, 68 
+355,HYS,Hays Regional,Hays,KS,557.98,592.76, 66 
+356,CKB,North Central West Virginia,Clarksburg/Fairmont,WV,536.29,569.71, 65 
+357,UIN,Quincy Regional-Baldwin Field,Quincy,IL,424.17,450.61, 63 
+358,HOM,Homer Airport,Homer,AK,756.73,803.89, 62 
+359,ATY,Watertown Regional,Watertown,SD,450.70,478.78, 56 
+359,MWA,Veterans Airport of Southern Illinois,Marion/Herrin,IL,480.05,509.97, 56 
+361,APN,Alpena County Regional,Alpena,MI,150.02,159.37, 53 
+362,VEL,Vernal Regional,Vernal,UT,529.46,562.46, 52 
+363,PUB,Pueblo Memorial,Pueblo,CO,414.16,439.97, 51 
+363,JHW,Chautauqua County/Jamestown,Jamestown,NY,503.43,534.81, 51 
+365,AOO,Altoona-Blair County,Altoona,PA,513.88,545.90, 49 
+366,AUG,Augusta State,Augusta/Waterville,ME,432.50,459.45, 48 
+367,CGI,Cape Girardeau Regional,Cape Girardeau,MO,427.04,453.66, 45 
+368,STC,St. Cloud Regional,St. Cloud,MN,187.82,199.52, 44 
+368,SDP,Sand Point,Sandpoint,AK,923.20,980.74, 44 
+370,RKD,Knox County Regional,Rockland,ME,394.29,418.87, 41 
+370,SPN,Francisco C. Ada Saipan International,Saipan,TT,1794.00,1905.81, 41 
+372,CEZ,Cortez Municipal,Cortez,CO,577.74,613.75, 39 
+373,MVY,Martha's Vineyard Airport,Martha's Vineyard,MA,415.73,441.64, 37 
+373,MCW,Mason City Municipal,Mason City,IA,629.78,669.03, 37 
+375,LEB,Lebanon Municipal,Lebanon-Hanover,NH,430.83,457.68, 36 
+375,ALS,San Luis Valley Regional/Bergman Field,Alamosa,CO,569.33,604.82, 36 
+375,BPT,Jack Brooks Regional,Beaumont/Port Arthur,TX,513.97,546.00, 36 
+378,JMS,Jamestown Regional,Jamestown,ND,628.69,667.87, 35 
+379,SDY,Sidney Richland Regional,Sidney,MT,596.33,633.50, 33 
+379,BHB,Hancock County-Bar Harbor,Bar Harbor,ME,547.52,581.64, 33 
+379,DDC,Dodge City Regional,Dodge City,KS,551.61,585.98, 33 
+379,CDC,Cedar City Regional,Cedar City,UT,165.67,175.99, 33 
+383,LWB,Greenbrier Valley,Lewisburg,WV,409.48,435.00, 31 
+383,IRK,Kirksville Regional,Kirksville,MO,459.35,487.98, 31 
+385,BFD,Bradford Regional,Bradford,PA,594.75,631.82, 28 
+386,FOD,Fort Dodge Regional,Fort Dodge,IA,630.44,669.73, 27 
+386,DLG,Dillingham Airport,Dillingham,AK,822.89,874.17, 27 
+388,TUP,Tupelo Regional,Tupelo,MS,527.48,560.35, 25 
+388,BKW,Raleigh County Memorial,Beckley,WV,490.16,520.71, 25 
+390,TEX,Telluride Regional,Telluride,CO,567.00,602.34, 24 
+391,MSS,Massena International-Richards Field,Massena,NY,471.13,500.49, 23 
+392,LBL,Liberal Mid-America Regional,Liberal,KS,602.32,639.86, 22 
+393,VIS,Visalia Municipal,Visalia,CA,433.71,460.74, 21 
+393,CDR,Chadron Municipal,Chadron,NE,530.57,563.64, 21 
+393,FKL,Venango Regional,Franklin/Oil City,PA,492.81,523.52, 21 
+393,MEI,Key Field,Meridian,MS,649.67,690.16, 21 
+397,CNY,Canyonlands Field,Moab,UT,484.05,514.22, 20 
+398,DVL,Devils Lake Regional,Devils Lake,ND,622.89,661.71, 19 
+398,AKN,King Salmon Airport,King Salmon,AK,983.37,1044.65, 19 
+400,VDZ,Valdez Pioneer Field,Valdez,AK,884.28,939.39, 18 
+400,VCT,Victoria Regional,Victoria,TX,510.56,542.37, 18 
+400,RUT,Rutland - Southern Vermont Regional,Rutland,VT,441.83,469.37, 18 
+403,JHM,Kapalua Airport,Kapalua,HI,785.82,834.80, 17 
+403,WRL,Worland Municipal,Worland,WY,597.71,634.96, 17 
+403,LNS,Lancaster Airport,Lancaster,PA,390.65,414.99, 17 
+403,SLK,Adirondack Regional,Saranac Lake/Lake Placid,NY,448.41,476.36, 17 
+407,PVC,Provincetown Municipal,Provincetown,MA,494.88,525.72, 16 
+408,PIB,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,MS,491.40,522.02, 15 
+408,AIA,Alliance Municipal,Alliance,NE,502.00,533.29, 15 
+410,MCK,McCook Ben Nelson Regional,McCook,NE,750.93,797.73, 14 
+410,VQS,Antonio Rivera Rodriguez,Vieques,PR,553.50,588.00, 14 
+412,PGA,Page Municipal,Page,AZ,528.00,560.91, 12 
+413,IWD,Gogebic-Iron County,Ironwood,MI,574.73,610.55, 11 
+413,OGS,Ogdensburg International,Ogdensburg,NY,462.55,491.37, 11 
+413,TVF,Thief River Falls Regional,Thief River Falls,MN,498.09,529.13, 11 
+416,MCN,Middle Georgia Regional,Macon,GA,482.20,512.25, 10 
+417,SNP,St. Paul Island,St. Paul,AK,1084.33,1151.91, 9 
+417,MAZ,Eugenio Maria de Hostos,Mayaguez,PR,414.56,440.39, 9 
+417,PRC,Ernest A. Love Field,Prescott,AZ,622.22,661.00, 9 
+420,GLH,Greenville Mid Delta,Greenville,MS,454.75,483.09, 8 
+420,SOW,Show Low Regional,Show Low,AZ,514.00,546.03, 8 
+422,HYA,Barnstable Municipal-Boardman/Polando Field,Hyannis,MA,534.14,567.43, 7 
+422,ADK,Adak,Adak Island,AK,859.00,912.53, 7 
+422,HON,Huron Regional,Huron,SD,680.71,723.14, 7 
+425,MCE,Merced Regional/Macready Field,Merced,CA,485.50,515.76, 6 
+426,IGM,Kingman Airport,Kingman,AZ,499.20,530.31, 5 
+426,MKK,Molokai,Hoolehua,HI,493.40,524.15, 5 
+426,CNM,Cavern City Air Terminal,Carlsbad,NM,642.20,682.22, 5 
+426,OLF,L. M. Clayton,Wolf Point,MT,681.80,724.29, 5 
+430,GBD,Great Bend Municipal,Great Bend,KS,563.25,598.35, 4 
+430,MSL,Northwest Alabama Regional,Muscle Shoals,AL,378.75,402.35, 4 
+430,GDV,Dawson Community,Glendive,MT,539.25,572.86, 4 
+430,LNY,Lanai Airport,Lanai,HI,295.50,313.92, 4 
+434,JBR,Jonesboro Municipal,Jonesboro,AR,579.00,615.08, 3 
+434,CVN,Clovis Municipal,Clovis,NM,327.33,347.73, 3 
+434,GGW,Wokal Field/Glasgow International,Glasgow,MT,345.67,367.21, 3 
+437,DEC,Decatur Airport,Decatur,IL,373.50,396.78, 2 
+437,ROP,Benjamin Taisacan Manglona International,Rota,TT,1608.00,1708.21, 2 
+437,MLS,Frank Wiley Field,Miles City,MT,434.50,461.58, 2 
+437,HVR,Havre City-County,Havre,MT,380.50,404.21, 2 
+437,SVC,Grant County,Silver City/Hurley,NM,572.00,607.65, 2 
+442,KSM,St. Mary's Airport,St. Mary's,AK,618.00,656.51, 1 
+442,KKI,Akiachak Airport,Akiachak,AK,551.00,585.34, 1 
+442,BRL,Southeast Iowa Regional,Burlington,IA,271.00,287.89, 1 
+442,CYF,Chefornak Airport,Chefornak,AK,559.00,593.84, 1 
+442,ELY,Ely Airport/Yelland Field,Ely,NV,615.00,653.33, 1 
+442,MCG,McGrath Airport,McGrath,AK,1822.00,1935.55, 1 
+National Average,,,,,374.24,,
+"<b>Source:</b>  Bureau of Transportation Statistics, Airline Origin & Destination Survey (10% Sample), DB1B_Ticket where bulk fare equals zero, itinerary fare is greater than or equal to fifty dollars ($50) and itinerary yield is less than or equal to three dollars ($3).",,,,,,,
+"Itinerary Fare:  Average fares are based on domestic itinerary fares, round-trip or one-way for which no return is purchased. Fares are based on the total ticket value which consists of the price charged by the airlines plus any additional taxes and fees levied by an outside entity at the time of purchase. Fares include only the price paid at the time of the ticket purchase and do not include other fees, such as baggage fees, paid at the airport or onboard the aircraft. Averages do not include frequent-flyer or 'zero fares' or a few abnormally high reported fares.  Airports* ranked by U.S. originating domestic passengers in Q4 2012.</br><br><b>Note:</b>  The inflation adjustment was performed using Consumer Price Index for All Urban Consumers:  Airline fare (CUUR0000SA0 - U.S. All items, 1982-84=100)</br></br>",,,,,,,
