@@ -1,4 +1,4 @@
-You will implement a matrix multiplication using PThreads:
+# Matrix multiplication using PThreads
 
 - Use a data structure of your choice to represent the matrix. You have been given the code to generate input matrices. The code generates matrices as csv files.
 - You will be multiplying two square matrices. Use the code given to generate two different matrices of the same size (nxn) and multiply them.
