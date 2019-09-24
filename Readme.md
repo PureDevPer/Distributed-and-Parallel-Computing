@@ -25,7 +25,7 @@
 
 [![Language](https://img.shields.io/badge/Language-C-green.svg)](https://shields.io/)
 
-- OpenMP
+- <a href="https://github.com/PureDevPer/Distributed-and-Parallel-Computing/tree/master/openMP">OpenMP</a>
 
 ## MPI
 
